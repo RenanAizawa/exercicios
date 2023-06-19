@@ -21,4 +21,4 @@ puts lista_ordenada # Saída: [1, 2, 3, 4, 5]
 
 for elemento in lista do
     puts elemento
-  end
+end
